@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="create_et_question_hint">Введите вопрос</string>
+    <string name="create_et_question_variant_hint">Вариант ответа</string>
+    <string name="create_question_add">Добавить еще один вариант</string>
+    <string name="create_quiz_et_title_hint">Название квиза</string>
+    <string name="create_quiz_item_picker_select_true">Верный вариант ответа</string>
+    <string name="create_quiz_item_picker_remove">Удалить</string>
+
+    <string name="create_quiz_final_title">Почти всё...</string>
+    <string name="create_quiz_final_upload_avatar">Добавь обложку</string>
+    <string name="create_quiz_final_add_category">Выбери категорию</string>
+    <string name="create_quiz_final_add_country">Выбери страну</string>
+    <string name="create_quiz_final_save">Сохранить</string>
+
+    <string name="create_quiz_final_pick_from_gallery">Выбрать из галереи</string>
+    <string name="create_quiz_final_take_photo">Сделать фото</string>
+    <string name="create_quiz_final_error_photo">Выбрать фото</string>
+    <string name="create_quiz_final_error_category">Выбери категорию</string>
+    <string name="create_quiz_final_error_country">Выбери страну</string>
+    <string name="create_quiz_dialog_categories_title">Категории</string>
+    <string name="create_quiz_dialog_countries_title">Страны</string>
+
+    <string name="create_quiz_error_app">Ошибка приложения</string>
+    <string name="create_quiz_error_title_miss">Название квиза отсуствует</string>
+    <string name="create_quiz_error_title_question_miss">Название вопроса отсуствует</string>
+    <string name="create_quiz_error_answer_blank">Пустое поле с ответом</string>
+    <string name="create_quiz_error_answer_no_correct">Нет верного ответа</string>
+</resources>

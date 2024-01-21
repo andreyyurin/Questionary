@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="profile_enter_name">Enter your name</string>
+    <string name="profile_save">Save</string>
+    <string name="profile_title">Create your profile</string>
+    <string name="profile_pick_from_gallery">Pick from gallery</string>
+    <string name="profile_remove_from_gallery">Remove?</string>
+    <string name="profile_quiz_statistics">Statistics</string>
+    <string name="profile_quiz_edit">Edit</string>
+    <string name="profile_take_photo">Take a photo</string>
+    <string name="profile_no_files">No quizes found😔</string>
+    <string name="profile_btn_upload">Go to the best quizzes</string>
+</resources>

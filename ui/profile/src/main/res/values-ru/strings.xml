@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="profile_enter_name">Введите свое имя</string>
+    <string name="profile_save">Сохранить</string>
+    <string name="profile_title">Создайте свой профиль</string>
+    <string name="profile_pick_from_gallery">Выберите из галереи</string>
+    <string name="profile_remove_from_gallery">Удалить? </string>
+    <string name="profile_quiz_statistics">Статистика</string>
+    <string name="profile_quiz_edit">Редактировать</string>
+    <string name="profile_take_photo">Сделать фото</string>
+    <string name="profile_no_files">Не найдено ни одного квиза😔</string>
+    <string name="profile_btn_upload">Перейти к лучшим квизам</string>
+</resources>

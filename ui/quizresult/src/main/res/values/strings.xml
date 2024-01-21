@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="quiz_result_complete_score">You have completed %1$d / %2$d questions</string>
+    <string name="quiz_result_rate">Please, rate the quiz</string>
+    <string name="quiz_result_btn_exit">Finish</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="top_quiz_main_title">Лучшие квизы</string>
+    <string name="bottom_sheet_filters_title">Фильтры</string>
+    <string name="top_quiz_filter_create">Создать новый квиз</string>
+    <string name="top_quiz_filter_category">Категория</string>
+    <string name="top_quiz_filter_countries">Страна</string>
+    <string name="top_quiz_filter_sort">Сортировка</string>
+    <string name="top_quiz_description">Находи лучшие квизы, фильтруй по интересам, создавай свои – весь мир увлекательных вопросов в одном месте.</string>
+    <string name="top_quiz_no_quizes">Не найдено ни одного квиза😔</string>
+</resources>

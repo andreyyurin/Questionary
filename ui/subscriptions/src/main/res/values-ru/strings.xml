@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="subscription_tab_followers">Подписчики</string>
+    <string name="subscription_tab_following">Подписки</string>
+    <string name="subscription_seacrh_btn_follow">Подписаться</string>
+    <string name="subscription_seacrh_btn_unfollow">Отписаться</string>
+    <string name="subscription_btn_profile">Открыть профиль</string>
+    <string name="subscription_empty_followers">На вас еще никто не подписался😔</string>
+    <string name="subscription_empty_following">Вы еще ни на кого не подписаны😔</string>
+    <string name="subscription_title">Подписки</string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="onboarding_splash_btn_first">Start a new chapter</string>
+    <string name="onboarding_splash_btn_second">Dive into the world of knowledge</string>
+    <string name="onboarding_splash_btn_third">Become a mentor</string>
+    <string name="onboarding_splash_btn_fourth">Start conquering</string>
+
+    <string name="onboarding_splash_title_first">Welcome</string>
+    <string name="onboarding_splash_title_second">Embark</string>
+    <string name="onboarding_splash_title_third">Share</string>
+    <string name="onboarding_splash_title_fourth">Begin</string>
+
+    <string name="onboarding_splash_description_first">to the threshold of new opportunities! Exciting activities, interesting discoveries and the opportunity to fulfil your potential await you.</string>
+    <string name="onboarding_splash_description_second">on an exciting journey of learning, where every step brings you closer to new horizons.</string>
+    <string name="onboarding_splash_description_third">your knowledge, become a wise guide in the world of education, and inspire others in their educational endeavours.</string>
+    <string name="onboarding_splash_description_fourth">your journey to achieve outstanding results. Ready to start climbing?</string>
+</resources>

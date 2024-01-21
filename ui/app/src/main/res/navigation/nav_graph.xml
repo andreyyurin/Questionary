@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/SplashFragment">
+
+    <fragment
+        android:id="@+id/SplashFragment"
+        android:name="ru.sad.splash.SplashFragment"
+        android:label="Splash"
+        tools:layout="@layout/fragment_splash" />
+
+    <fragment
+        android:id="@+id/SubscriptionFragment"
+        android:name="ru.sad.subscriptions.SubscriptionFragment"
+        android:label="Subscription"
+        tools:layout="@layout/fragment_subscription" />
+
+    <fragment
+        android:id="@+id/ProfileFragment"
+        android:name="ru.sad.profile.ProfileFragment"
+        android:label="Profile"
+        tools:layout="@layout/fragment_profile" />
+
+    <fragment
+        android:id="@+id/CameraFragment"
+        android:name="ru.sad.camera.CameraFragment"
+        android:label="Camera"
+        tools:layout="@layout/fragment_camera" />
+
+    <fragment
+        android:id="@+id/CreateQuizFragment"
+        android:name="ru.sad.createquiz.CreateQuizFragment"
+        android:label="Create Quiz"
+        tools:layout="@layout/fragment_create_quiz" />
+
+    <fragment
+        android:id="@+id/CreateQuizFinalFragment"
+        android:name="ru.sad.createquiz.CreateQuizFinalFragment"
+        android:label="Create Quiz Final"
+        tools:layout="@layout/fragment_create_quiz_final" />
+
+    <fragment
+        android:id="@+id/QuizResultFragment"
+        android:name="ru.sad.quizresult.QuizResultFragment"
+        android:label="Quiz Result"
+        tools:layout="@layout/fragment_quiz_result" />
+
+    <fragment
+        android:id="@+id/OnBoardingFragment"
+        android:name="ru.sad.onboarding.OnBoardingFragment"
+        android:label="OnBoarding"
+        tools:layout="@layout/fragment_on_boarding" />
+
+    <fragment
+        android:id="@+id/QuizFragment"
+        android:name="ru.sad.quiz.QuizFragment"
+        android:label="Quiz"
+        tools:layout="@layout/fragment_quiz" />
+
+    <fragment
+        android:id="@+id/TopQuizFragment"
+        android:name="ru.sad.topquiz.TopQuizFragment"
+        android:label="Camera"
+        tools:layout="@layout/fragment_top_quiz" />
+
+    <fragment
+        android:id="@+id/LoginFragment"
+        android:name="ru.sad.login.LoginFragment"
+        android:label="Login"
+        tools:layout="@layout/fragment_splash" />
+
+</navigation>

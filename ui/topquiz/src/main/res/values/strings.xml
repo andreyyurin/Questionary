@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="top_quiz_main_title">Best Quizzes</string>
+    <string name="bottom_sheet_filters_title">Filters</string>
+    <string name="top_quiz_filter_create">Create a new quiz</string>
+    <string name="top_quiz_filter_category">Category</string>
+    <string name="top_quiz_filter_sort">Sort</string>
+    <string name="top_quiz_filter_countries">Countries</string>
+    <string name="top_quiz_description">Find the best quizzes, filter by interest, create your own - the whole world of fun questions in one place.</string>
+    <string name="top_quiz_no_quizes">No quizes found😔</string>
+</resources>

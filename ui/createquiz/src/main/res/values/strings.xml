@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="create_et_question_hint">Enter a question</string>
+    <string name="create_et_question_variant_hint">Answer choice</string>
+    <string name="create_question_add">Add another option</string>
+    <string name="create_quiz_et_title_hint">Quiz title</string>
+    <string name="create_quiz_item_picker_select_true">Correct answer choice</string>
+    <string name="create_quiz_item_picker_remove">Delete</string>
+
+    <string name="create_quiz_final_title">Almost everything...</string>
+    <string name="create_quiz_final_upload_avatar">Add a cover</string>
+    <string name="create_quiz_final_add_category">Choose a category</string>
+    <string name="create_quiz_final_add_country">Choose a country</string>
+    <string name="create_quiz_final_save">Save</string>
+
+    <string name="create_quiz_final_pick_from_gallery">Pick from gallery</string>
+    <string name="create_quiz_final_take_photo">Take a photo</string>
+    <string name="create_quiz_final_error_photo">Choose a photo</string>
+    <string name="create_quiz_final_error_category">Choose a category</string>
+    <string name="create_quiz_final_error_country">Choose a country</string>
+    <string name="create_quiz_dialog_categories_title">Categories</string>
+    <string name="create_quiz_dialog_countries_title">Countries</string>
+
+    <string name="create_quiz_error_app">Application error</string>
+    <string name="create_quiz_error_title_miss">The title of the quiz is missing</string>
+    <string name="create_quiz_error_title_question_miss">The title of the question is missing</string>
+    <string name="create_quiz_error_answer_blank">Blank field with the answer</string>
+    <string name="create_quiz_error_answer_no_correct">No correct answer</string>
+</resources>

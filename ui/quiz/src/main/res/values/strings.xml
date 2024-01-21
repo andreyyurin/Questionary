@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="quiz_exit_title">Are you sure you want to finish? </string>
+    <string name="quiz_exit_continue">Continue</string>
+    <string name="quiz_exit_cancel">Finish</string>
+</resources>

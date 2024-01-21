@@ -1,0 +1,25 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Questionary</string>
+
+    <string name="error_illegal">An unknown error occurred. Please try again later.</string>
+    <string name="error_null_pointer">An unknown error occurred. Please try again later.</string>
+    <string name="error_unknown">An unknown error occurred. Please try again later.</string>
+    <string name="error_email_or_password">Please check that your email and password are correct. The password must be longer than 6 characters.</string>
+
+    <string name="google_client_id" tools:ignore="TypographyDashes" translatable="false">784406435756-v5utidl0ttkj8jc4gs9f4ik9q2q4ntoo.apps.googleusercontent.com</string>
+
+    <string name="bottom_sheet_settings">Settings</string>
+    <string name="bottom_sheet_error">Error connection</string>
+    <string name="bottom_sheet_error_title">Check your internet\nor location settings</string>
+
+    <string name="photos_dirname" translatable="false">questionary</string>
+    <string name="photos_authorities" translatable="false">ru.sad.questionary.provider</string>
+    <string name="photos_authorities_miui" translatable="false">ru.sad.lifestory.miui.provider</string>
+
+    <string name="main_photo_mime_type" translatable="false">image/webp</string>
+    <string name="main_photo_share_type" translatable="false">video/webp</string>
+
+
+    <!-- Firebase Messaging -->
+    <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
+</resources>

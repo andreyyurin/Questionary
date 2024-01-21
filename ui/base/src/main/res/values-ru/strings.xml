@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Questionary</string>
+    <string name="error_illegal">Произошла неизвестная ошибка. Пожалуйста, повторите попытку позже.</string>
+    <string name="error_null_pointer">Произошла неизвестная ошибка. Пожалуйста, повторите попытку позже.</string>
+    <string name="error_unknown">Произошла неизвестная ошибка. Пожалуйста, повторите попытку позже.</string>
+    <string name="error_email_or_password">Пожалуйста, проверьте правильность вашего адреса электронной почты и пароля. Пароль должен быть длиннее 6 символов.</string>
+    <string name="bottom_sheet_settings">Настройки</string>
+    <string name="bottom_sheet_error">Ошибка подключения</string>
+    <string name="bottom_sheet_error_title">Проверьте свой Интернет\nили настройки местоположения</string>
+</resources>

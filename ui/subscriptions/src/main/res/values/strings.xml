@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="subscription_tab_followers">Followers</string>
+    <string name="subscription_tab_following">Following</string>
+    <string name="subscription_seacrh_btn_follow">Follow</string>
+    <string name="subscription_seacrh_btn_unfollow">Unfollow</string>
+    <string name="subscription_btn_profile">Open profile</string>
+    <string name="subscription_empty_followers">Nobody has subscribed to you yet😔</string>
+    <string name="subscription_empty_following">You\'re not subscribed to anyone yet😔</string>
+    <string name="subscription_title">Subscriptions</string>
+</resources>

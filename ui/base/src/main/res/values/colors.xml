@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="white_70">#B3FFFFFF</color>
+    <color name="black_70">#B3000000</color>
+    <color name="black_05">#0D000000</color>
+    <color name="gray">#bdbdbd</color>
+    <color name="green">#00FF00</color>
+
+    <color name="blue_login">#246BFD</color>
+    <color name="blue_login_20">#33246BFD</color>
+    <color name="white_20">#33FFFFFF</color>
+    <color name="white_10">#1AFFFFFF</color>
+    <color name="white_80">#CCFFFFFF</color>
+    <color name="red">#FF5722</color>
+    <color name="yellow">#EEFF00</color>
+    <color name="picker_text_color">@color/white</color>
+
+    <color name="transparent">@android:color/transparent</color>
+
+    <color name="black_part">#181A20</color>
+    <color name="black_part_60">#99191B21</color>
+    <color name="black_part_30">#4D191B21</color>
+    <color name="black_part_10">#1A191B21</color>
+    <color name="main_end_color">@color/main_second_color</color>
+    <color name="main_start_color">#C67DFD</color>
+
+    <!-- MAIN COLORS APP -->
+
+    <!--    <color name="main_color_background">#181A20</color>-->
+    <!--    <color name="main_color_background_80">#CC181A20</color>-->
+    <color name="main_color_background">#F6F7FB</color>
+    <color name="main_color_background_80">#CCF6F7FB</color>
+
+    <color name="main_second_color">#FFB74D</color>
+    <color name="main_second_color_70">#B3FFB74D</color>
+
+    <color name="main_text_color">#000000</color>
+    <color name="main_text_hint_color">#4D000000</color>
+
+    <color name="main_icon_color">#000000</color>
+
+    <color name="main_drawable_background_color">#FFFFFF</color>
+    <color name="main_drawable_stroke_color">@color/main_color_background_80</color>
+
+    <color name="main_tab_background_color">@color/main_color_background</color>
+    <color name="main_tabs_background_color">@color/black_05</color>
+
+    <color name="main_progress_color">@color/gray</color>
+
+    <color name="main_background_tint_color">#FFFFFF</color>
+
+    <color name="error_text_color">#FFFFFF</color>
+    <color name="error_background_color">#000000</color>
+
+    <color name="et_background_stroke_color">#000000</color>
+
+    <color name="mercury">#e5e5e5</color>
+
+
+</resources>

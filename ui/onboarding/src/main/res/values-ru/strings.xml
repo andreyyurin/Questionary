@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="onboarding_splash_btn_first">Начать новую главу</string>
+    <string name="onboarding_splash_btn_second">Погрузиться в мир знаний</string>
+    <string name="onboarding_splash_btn_third">Стать наставником</string>
+    <string name="onboarding_splash_btn_fourth">Начать завоевывать</string>
+
+    <string name="onboarding_splash_title_first">Добро пожаловать</string>
+    <string name="onboarding_splash_title_second">Отправляйся</string>
+    <string name="onboarding_splash_title_third">Поделись</string>
+    <string name="onboarding_splash_title_fourth">Начинай</string>
+
+    <string name="onboarding_splash_description_first">на порог новых возможностей! Тебя ждут увлекательные занятия, интересные открытия и возможность раскрыть свой потенциал.</string>
+    <string name="onboarding_splash_description_second">в захватывающее путешествие учения, где каждый шаг приближает тебя к новым горизонтам.</string>
+    <string name="onboarding_splash_description_third">своими знаниями, стань мудрым проводником в мире образования и вдохнови других на учебные свершения.</string>
+    <string name="onboarding_splash_description_fourth">свой путь к достижению выдающихся результатов. Готов начать восхождение?</string>
+</resources>
