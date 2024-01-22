@@ -20,5 +20,5 @@ include(":data", ":domain", ":utils")
 include(
     ":ui:splash", ":ui:login", ":ui:camera", ":ui:photoviewer", ":ui:profile",
     ":ui:subscriptions", ":ui:topquiz", ":ui:quiz", ":ui:createquiz", ":ui:quizresult",
-    ":ui:onboarding"
+    ":ui:onboarding", ":ui:channels", ":ui:channel"
 )

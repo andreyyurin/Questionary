@@ -33,7 +33,7 @@ class MainActivity : BaseActivity() {
 
     companion object {
         private val navigationScreenKeys = listOf(
-            NavigationKey.SUBSCRIPTION_SCREEN,
+            NavigationKey.CHANNELS_SCREEN,
             NavigationKey.TOP_QUIZ_SCREEN,
             NavigationKey.PROFILE_SCREEN
         )
@@ -147,7 +147,7 @@ class MainActivity : BaseActivity() {
             bottomBar.isGone = true
 
             bottomBar.addItem(R.drawable.ic_home) {
-                activityViewModel.navigate(NavigationKey.SUBSCRIPTION_SCREEN)
+                activityViewModel.navigate(NavigationKey.CHANNELS_SCREEN)
             }
 
             bottomBar.addItem(R.drawable.ic_main) {

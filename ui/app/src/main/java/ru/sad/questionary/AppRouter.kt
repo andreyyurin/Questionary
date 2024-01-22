@@ -96,6 +96,27 @@ internal class AppRouter(
                 )
             }
 
+            NavigationKey.CHANNELS_SCREEN -> {
+                val navOptions = NavOptions.Builder()
+
+                navController.navigate(
+                    R.id.ChannelsFragment,
+                    bundles,
+                    navOptions.build()
+                )
+            }
+
+
+            NavigationKey.CHANNEL_SCREEN -> {
+                val navOptions = NavOptions.Builder()
+
+                navController.navigate(
+                    R.id.ChannelFragment,
+                    bundles,
+                    navOptions.build()
+                )
+            }
+
             NavigationKey.CREATE_QUIZ_FINAL_SCREEN -> {
                 val navOptions = NavOptions.Builder()
                     .setEnterAnim(enterAnimation)

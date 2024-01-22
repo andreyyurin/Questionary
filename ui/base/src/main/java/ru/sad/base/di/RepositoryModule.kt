@@ -9,6 +9,8 @@ import dagger.Provides
 import dagger.hilt.InstallIn
 import dagger.hilt.components.SingletonComponent
 import ru.sad.data.api.QuestionaryApi
+import ru.sad.data.repository.channels.ChannelsRepository
+import ru.sad.data.repository.channels.ChannelsRepositoryImpl
 import ru.sad.data.repository.push.PushRepository
 import ru.sad.data.repository.push.PushRepositoryImpl
 import ru.sad.data.repository.quiz.QuizRepository
@@ -73,6 +75,13 @@ class RepositoryModule {
         application: Application,
         api: QuestionaryApi
     ): QuizRepositoryImpl = QuizRepository(application, api)
+
+    @Singleton
+    @Provides
+    fun provideChannelsRepository(
+        application: Application,
+        api: QuestionaryApi
+    ): ChannelsRepositoryImpl = ChannelsRepository(application, api)
 
     @Singleton
     @Provides

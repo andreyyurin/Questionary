@@ -13,8 +13,8 @@ apply {
 }
 
 android {
-    val appVersionCode = 3
-    val appVersionName = "1.0.2"
+    val appVersionCode = 4
+    val appVersionName = "1.0.3"
 
     namespace = "ru.sad.questionary"
     compileSdk = 34
@@ -78,6 +78,8 @@ dependencies {
     implementation(project(":ui:onboarding"))
     implementation(project(":ui:camera"))
     implementation(project(":ui:onboarding"))
+    implementation(project(":ui:channels"))
+    implementation(project(":ui:channel"))
 
     implementation(project(":ui:base"))
 

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="channels_title">Channels</string>
+    <string name="channels_tab_created">Created</string>
+    <string name="channels_tab_subscribed">Subscribed</string>
+</resources>

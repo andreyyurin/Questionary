@@ -15,6 +15,8 @@ enum class NavigationKey {
     TOP_QUIZ_SCREEN,
     QUIZ_RESULT_SCREEN,
     ONBOARDING_SCREEN,
+    CHANNELS_SCREEN,
+    CHANNEL_SCREEN,
 
 
     // BOTTOM

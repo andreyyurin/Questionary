@@ -10,6 +10,12 @@ import retrofit2.http.Part
 import retrofit2.http.Query
 import ru.sad.domain.base.BaseModel
 import ru.sad.domain.base.BaseModelSingle
+import ru.sad.domain.model.channels.ChannelResponse
+import ru.sad.domain.model.channels.ChannelShortResponse
+import ru.sad.domain.model.channels.CreateChannelRequest
+import ru.sad.domain.model.channels.CreateChannelResponse
+import ru.sad.domain.model.channels.PostMessageRequest
+import ru.sad.domain.model.channels.PostMessageResponse
 import ru.sad.domain.model.quiz.CheckResultsResponse
 import ru.sad.domain.model.quiz.CreateQuizResponse
 import ru.sad.domain.model.quiz.QuizCategory
@@ -124,4 +130,30 @@ interface QuestionaryApi {
         @Query("category") category: Int,
         @Query("sort") sort: Int
     ): BaseModel<QuizShortResponse>
+
+    @GET("subscribed-channels")
+    suspend fun getSubscribedChannels(
+        @Query("page") page: Int,
+        @Query("pageSize") pageSize: Int
+    ): BaseModel<ChannelShortResponse>
+
+    @POST("post-message")
+    suspend fun postMessage(
+        @Body request: PostMessageRequest
+    ): BaseModelSingle<PostMessageResponse>
+
+    @GET("created-channels")
+    suspend fun getCreatedChannels(): BaseModel<ChannelShortResponse>
+
+    @GET("channel")
+    suspend fun getChannel(
+        @Query("id") id: Int,
+        @Query("page") page: Int,
+        @Query("pageSize") pageSize: Int
+    ): BaseModelSingle<ChannelResponse>
+
+    @POST("create-channel")
+    suspend fun createChannel(
+        @Body createRequest: CreateChannelRequest
+    ): BaseModelSingle<CreateChannelResponse>
 }

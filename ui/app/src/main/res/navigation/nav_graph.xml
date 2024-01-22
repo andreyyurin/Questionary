@@ -48,6 +48,18 @@
         tools:layout="@layout/fragment_quiz_result" />
 
     <fragment
+        android:id="@+id/ChannelsFragment"
+        android:name="ru.sad.channels.ChannelsFragment"
+        android:label="Channels"
+        tools:layout="@layout/fragment_channels" />
+
+    <fragment
+        android:id="@+id/ChannelFragment"
+        android:name="ru.sad.channel.ChannelFragment"
+        android:label="Channels"
+        tools:layout="@layout/fragment_channel" />
+
+    <fragment
         android:id="@+id/OnBoardingFragment"
         android:name="ru.sad.onboarding.OnBoardingFragment"
         android:label="OnBoarding"
